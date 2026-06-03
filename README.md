@@ -54,6 +54,19 @@ Hotel Booking Demand Dataset
 
 ---
 
+## Machine Learning Models
+
+The following models were trained to predict hotel booking cancellations:
+
+- Logistic Regression
+- Random Forest Classifier
+
+Evaluation metrics:
+
+- Accuracy Score
+- Classification Report
+- Confusion Matrix
+
 ## Dashboard Pages
 
 ### Page 1 — Hospitality Booking Analytics Dashboard
