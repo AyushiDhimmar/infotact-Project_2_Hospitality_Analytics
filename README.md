@@ -7,7 +7,15 @@ This project analyzes hotel booking behavior, cancellation patterns, customer se
 The objective is to uncover booking trends, identify key cancellation drivers, and build an interactive dashboard for business decision-making.
 
 ---
+## Dashboard Preview
 
+### Executive Overview
+
+![Executive Overview](visuals/dashboard_screenshots/page1_executive_overview.png)
+
+### Cancellation Root Cause Analysis
+
+![Cancellation Root Cause Analysis](visuals/dashboard_screenshots/page2_cancellation_root_cause_analysis.png)
 ## Dataset
 
 Hotel Booking Demand Dataset
