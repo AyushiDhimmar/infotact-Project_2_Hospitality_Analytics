@@ -35,6 +35,23 @@ Hotel cancellations directly impact occupancy planning and revenue forecasting. 
 - Generated lead time categories.
 - Built dashboard-ready analytical dataset.
 
+## Predictive Modeling
+
+Several machine learning models were trained to predict booking cancellations.
+
+Models evaluated:
+
+- Logistic Regression
+- Random Forest Classifier
+
+Model performance was assessed using:
+
+- Accuracy Score
+- Classification Report
+- Confusion Matrix
+
+The modeling phase helped identify patterns associated with reservation cancellations and supported the dashboard insights.
+
 ## Dashboard Development
 
 ### Page 1: Hospitality Booking Analytics Dashboard

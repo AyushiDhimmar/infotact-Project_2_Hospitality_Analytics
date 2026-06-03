@@ -7,6 +7,7 @@ This project analyzes hotel booking behavior, cancellation patterns, customer se
 The objective is to uncover booking trends, identify key cancellation drivers, and build an interactive dashboard for business decision-making.
 
 ---
+
 ## Dashboard Preview
 
 ### Executive Overview
@@ -16,6 +17,7 @@ The objective is to uncover booking trends, identify key cancellation drivers, a
 ### Cancellation Root Cause Analysis
 
 ![Cancellation Root Cause Analysis](visuals/dashboard_screenshots/page2_cancellation_root_cause_analysis.png)
+
 ## Dataset
 
 Hotel Booking Demand Dataset
@@ -44,10 +46,11 @@ Hotel Booking Demand Dataset
 1. Data Cleaning
 2. Exploratory Data Analysis
 3. Feature Engineering
-4. Dashboard Dataset Creation
-5. Power BI Dashboard Development
-6. Insight Generation
-7. Reporting & Documentation
+4. Predictive Modeling
+5. Dashboard Dataset Creation
+6. Power BI Dashboard Development
+7. Insight Generation
+8. Reporting & Documentation
 
 ---
 
